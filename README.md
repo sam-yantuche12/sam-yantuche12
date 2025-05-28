@@ -6,7 +6,7 @@
     <br> soy una persona aprendiendo a programar
     <br>
     <br>🔹 mi nombre  es samantha
-    <br>🔹 me ineresa programar 
+    <br>🔹 me interesa programar 
     <br>🔹 holiiii
     <br>🔹 
     </samp>

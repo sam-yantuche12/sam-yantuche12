@@ -1,13 +1,13 @@
-### Hello World. I'm SAM 👋.
+### Hello World. I'm sam 👋.
 ---
 <p>
-  <img src="./images.jpeg align="right" width="15%"/>
+  <img src="./https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlk6RcU8grghRM1RCYr3Fg6hKM-pzNMyypEg&s" align="right" width="15%"/>
   <samp>
-    <br> principianten de programacion 
+    <br> soy una persona aprendiendo a programar
     <br>
-    <br>🔹 aprendiendo html css y java 
-    <br>🔹 mi nombre es samantha yantuche 
-    <br>🔹 me interasa mucho la progracacion 
+    <br>🔹 mi nombre  es samantha
+    <br>🔹 me ineresa programar 
+    <br>🔹 holiiii
     <br>🔹 
     </samp>
    <br>

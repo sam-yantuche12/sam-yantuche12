@@ -1,16 +1,22 @@
-## Hi there 👋
-
-<!--
-**sam-yantuche12/sam-yantuche12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hello World. I'm SAM 👋.
+---
+<p>
+  <img src="./https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fes&psig=AOvVaw19OLBVcEzYS5ikFqN3xfao&ust=1748545565026000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLje09Sdxo0DFQAAAAAdAAAAABAE" align="right" width="15%"/>
+  <samp>
+    <br> principianten de programacion 
+    <br>
+    <br>🔹 aprendiendo html css y java 
+    <br>🔹 mi nombre es samantha yantuche 
+    <br>🔹 me interasa mucho la progracacion 
+    <br>🔹 
+    </samp>
+   <br>
+  <br>
+  <p align="center">
+    <samp>
+      #html, #css, #javascript, #git, #react, #python, #Java SE, #SQL, #Bash, #linux
+     </samp>
+    <br>
+  </p>
+  
+</p>

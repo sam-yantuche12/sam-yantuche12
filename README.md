@@ -1,7 +1,7 @@
 ### Hello World. I'm SAM 👋.
 ---
 <p>
-  <img src="./https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fes&psig=AOvVaw19OLBVcEzYS5ikFqN3xfao&ust=1748545565026000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLje09Sdxo0DFQAAAAAdAAAAABAE" align="right" width="15%"/>
+  <img src="./https://i.gifer.com/origin/2f/2f7adeacf3018708967abfec4bd0c59e_w200.gif align="right" width="15%"/>
   <samp>
     <br> principianten de programacion 
     <br>
